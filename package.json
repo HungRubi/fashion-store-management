@@ -1,0 +1,30 @@
+{
+  "name": "fashion-store-management",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon --inpect /src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HungRubi/fashion-store-management.git"
+  },
+  "keywords": [
+    "fashion",
+    "management",
+    "store",
+    "management"
+  ],
+  "author": "huyhung",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HungRubi/fashion-store-management/issues"
+  },
+  "homepage": "https://github.com/HungRubi/fashion-store-management#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.4"
+  }
+}
